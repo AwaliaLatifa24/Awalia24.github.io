@@ -65,17 +65,15 @@ li {
   padding-top: 80px;
 }
 
-/* Tambahkan CSS untuk tags <input> dan <textarea> */
 input, textarea {
   width: 360px;
   margin-top: 10px;
   margin-bottom: 30px;
   padding: 20px;
   font-size: 18px;
-  border: 1px solid #34495e;
+  border: 1px solid #e74c3c;
 }
 
-/* Tambahkan CSS untuk contact-submit */
 .contact-submit {
   background-color: #34495e;
   color: #889eab;
